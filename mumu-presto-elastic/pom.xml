@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mumu-presto-elasticsearch</artifactId>
+    <artifactId>mumu-presto-elastic</artifactId>
 
     <name>mumu-presto-elasticsearch</name>
     <url>http://www.example.com</url>
